@@ -1,1 +1,1 @@
-# QTox_PJ_BC
+# QTox: a validated QSAR model for toxicity prediction and regulatory registration 

@@ -1,0 +1,149 @@
+<datawarrior-fileinfo>
+<version="3.3">
+<created="1697614307458">
+<rowcount="67">
+</datawarrior-fileinfo>
+<column properties>
+<columnName="Structure">
+<columnProperty="specialType	idcode">
+<columnProperty="idColumn	Molecule Name">
+<columnName="idcoordinates2D">
+<columnProperty="parent	Structure">
+<columnProperty="specialType	idcoordinates2D">
+<columnName="FragFp">
+<columnProperty="parent	Structure">
+<columnProperty="specialType	FragFp">
+<columnProperty="version	1.2.1">
+</column properties>
+idcoordinates2D	FragFp	Structure	Molecule Name	LigandID.1	class	canonical_smiles
+!B@OxBb@Jw@Ox@?`Jw@Ox	zoUWLWN0V04F0F08080V082*4Fl!8$V84)V0F#8!F0V,F%W0F0	daED@DHNRYWifif@@	1,2-dihydropyridazine-3,6-dione	1,2-dihydropyridazine-3,6-dione	1.0	O=c1ccc(=O)[nH][nH]1
+!BbOvw@ovw@ha??ovH@OySYuLX@h`BbA|ZGvT@?f\l@h`	zovpH_NG0V4F4F28FN0_082V!F090804HG018V82GV809VV0280CX4J0F!1FF0V9#V04d!2020F01W0kV	fhiqb@LBCAA`AFRREQQIIEZ\Zru@pRTP@@	4-amino-N-(5-methyl-1,2-oxazol-3-yl)benzenesulfonamide	4-amino-N-(5-methyl-1,2-oxazol-3-yl)benzenesulfonamide	0.0	Cc1cc(NS(=O)(=O)c2ccc(N)cc2)no1
+!Bb@Jw?PJw?Xc}mpJH_?y??`Jw?Xc}bOvw?[]??`Jw?Xa??ovH_?xBbOvH?X`BbG?~?Xc}bOvw	yJup648G804F0124FN010N2m$128202H050V83FV829VV02!524L0F1!2V0c9022Z06g!2020J40b0IF	fcoIR@LBCFBIkv@HrRPjJIIK[IQISJZ][s^kT@@@S@AS@@@@	2-hydroxy-5-[[4-(pyridin-2-ylsulfamoyl)phenyl]diazenyl]benzoic acid	2-hydroxy-5-[[4-(pyridin-2-ylsulfamoyl)phenyl]diazenyl]benzoic acid	0.0	O=C(O)c1cc(N=Nc2ccc(S(=O)(=O)Nc3ccccn3)cc2)ccc1O
+!B?`C~_pC~_?xBm?vw?Xb@L\wO_?y??j[_aBo}bG?~	jpUlIVNKW04R!2@TN0W282c!F090B042G010X82GV849VV0X!hX4J8F0111!V9#V04c!2F20G01W0kV	f`qpa@LR}A@@`PQddaTTRRUtxuejBPha@@	4-amino-N-(1,3-thiazol-2-yl)benzenesulfonamide	4-amino-N-(1,3-thiazol-2-yl)benzenesulfonamide	0.0	Nc1ccc(S(=O)(=O)Nc2nccs2)cc1
+!B?X`kn}~Ys}Jw?\?RL[|kn}~Y_?{}m?vw_?x	vpQl2WOK0F4R0F2BD80W0N2V!F091404HFV50X8!V8610V0X109V0J0FV8W4l0V112#49!1F2$V0FV	fgApB@LLx@HRevUUpPTcViYj@H@@@	4-(1H-benzimidazol-2-yl)-1,3-thiazole	4-(1H-benzimidazol-2-yl)-1,3-thiazole	1.0	c1ccc2[nH]c(-c3cscn3)nc2c1
+!B?g?~@G?~@O{}b@Jw@ha??`C~@OxBb@C~	zotpFVNG8V4F4028FF01082V$109#G$82G#9V%424F)V8&c!2#F!1#	dklL`HS@BLddJbRvWUjB@`@@	ethyl 4-methylbenzenesulfonate	ethyl 4-methylbenzenesulfonate	1.0	CCOS(=O)(=O)c1ccc(C)cc1
+!BXAhXTqi`FBp@?ovHXFTBb@JH?X`	yoPlLWOF8F4F0F040N0G082&2#2l208#FV860VV$1V4J08#2!c%V%F$8V0F0	dmND@DCdfVUrjUZ`PH@@	isoindole-1,3-dione	isoindole-1,3-dione	0.0	O=C1NC(=O)c2ccccc21
+!BXAhXTqi`FBp@?ovHXFTBb@JH?X`	yospJZNF8V4F41040N05082&20V02G!88!FV860VV$1V4J!1!2!g%V04#F$8$	dmLL@@SdfVUrjUZ`PH@@	2-benzofuran-1,3-dione	2-benzofuran-1,3-dione	0.0	O=C1OC(=O)c2ccccc21
+!B@k_}mpC~_?xBb@Jw?X`@?`C~@k\	zJul618G8!F0F040N0W0N2&30204k01$F0820V!21#4H%2!c1/40Y0G0	dmvL@D@nRY[geVhH@@@	N,2-dihydroxybenzamide	N,2-dihydroxybenzamide	1.0	O=C(NO)c1ccccc1O
+!B@k\@?ovw@h`@?`Jw@h`@?`C~@h`	zoQlLWNG!4F0F280F#82%1%W#V!FV*1/$4+W0F0	dmuH@DHDf]eYUj`@@@	N'-phenylacetohydrazide	N'-phenylacetohydrazide	1.0	CC(=O)NNc1ccccc1
+!B?g?~@G?~@O{}b@Jw@h`BbG?~@Ox@?`JH@Ox	zoQlLWNG!4F0F28FF01082V$108!2l#V82GV!9VV$524J)V8#V04c!2#F01W0k0	dg]L`LnDD@cIIBhhd]ikTC@P@@	N-(4-aminophenyl)sulfonylacetamide	N-(4-aminophenyl)sulfonylacetamide	0.0	CC(=O)NS(=O)(=O)c1ccc(N)cc1
+!BTqa`FbpX_?xXT?x@?[_}bMCRL[|XKG?~_?xXTqaSLXCPs_vHL[|XKA`ltLt	uoPlHWOF8F4F0F#N0G082V!F&HG258#FV041VV02809V4J0F!1#V102#41$2$V0FV	fnkP@@@XrQQSQQIIJKYGCKI}fkVjPB@@@B@@@	2,4,5-triphenyl-1H-imidazole	2,4,5-triphenyl-1H-imidazole	1.0	c1ccc(-c2nc(-c3ccccc3)c(-c3ccccc3)[nH]2)cc1
+!BFBsPsSF@aERw@lwPil@BbOvH@hc}bG?~@hc}b@C~@h`Bb@C~@h`	zpzpM_NKdV4R4F08PR0_082cV0F080C24Ll018#FZ849VV0X!CX4J0F081FF0c1!1!J0V02FF0F02Y0GV	fbuqPBHRTAACYaJNR[e]VyWYrJVijZX@I@PE@	4-hydroxy-N-[(Z)-(5-nitrofuran-2-yl)methylideneamino]benzamide	4-hydroxy-N-[(Z)-(5-nitrofuran-2-yl)methylideneamino]benzamide	1.0	O=C(N/N=C/c1ccc([N+](=O)[O-])o1)c1ccc(O)cc1
+!BbOvw@`JH?[]??`Jw?Xc}m?vw_?y??`Jw@k_}bOvw@O{}mw?~@ha??`Jw?g?~@@C~?Xc}m?vH?[\BbG?~_?xBmw?~?Xc}m?vw@hbH?[\B?[_}bG?~@hc}bOvH@hc}bK_}b@K}b@	yJul619G0F4F0F24FN010N0m$108202mV50V82!868VV020V4206$86WFV9022Zc4c#F!4!Y0G0	el~zGB@NEBdZXDLMFna`V^QPxtp@`HHIBOPcIIKEDeDlhhhiMDgEhdciEXdliICHjmkol[WUhHFBHBE`HAheZ@BV@@@@	4-acetamido-5-hydroxy-6-[[7-sulfo-4-[(4-sulfophenyl)diazenyl]naphthalen-1-yl]diazenyl]naphthalene-1,7-disulfonic acid	4-acetamido-5-hydroxy-6-[[7-sulfo-4-[(4-sulfophenyl)diazenyl]naphthalen-1-yl]diazenyl]naphthalene-1,7-disulfonic acid	0.0	CC(=O)Nc1ccc(S(=O)(=O)O)c2cc(S(=O)(=O)O)c(N=Nc3ccc(N=Nc4ccc(S(=O)(=O)O)cc4)c4ccc(S(=O)(=O)O)cc34)c(O)c12
+!BbOrH?_x@YrpXKAi`YVC}bOrH?Hc}b@	jpQl2VOK0F4R!2BD80W0N2V!F0914046FV50X#V8690V0X509!J0FV014W0V112#48!3F2#VY0FV	dcoDAHJ`RISdfyUUnWVfh@@@@	2-nitro-1H-benzimidazole	2-nitro-1H-benzimidazole	1.0	O=[N+]([O-])c1nc2ccccc2[nH]1
+!B?g?~@G?~@O{}b@Jw@ha??`C~@OxBb@C~	zoQlHWNG804F!28FF01082V$109#G$82G#9V%424F)V8&c!2#F!W0F0	dknD`La@BLddJbRvWUjB@`@@	N-ethyl-4-methylbenzenesulfonamide	N-ethyl-4-methylbenzenesulfonamide	0.0	CCNS(=O)(=O)c1ccc(C)cc1
+!B@k_}mpC~_?xBb@Jw?[\@?`C~@k]??`Jw	zoUlLWNFW04F0F0@0F0W082*44l&FV#V#4!V4F0F&V(1*W0FF	dkoD@DJ`UIeeVYMjBA`@@	N'-acetylpyridine-2-carbohydrazide	N'-acetylpyridine-2-carbohydrazide	0.0	CC(=O)NNC(=O)c1ccccn1
+!B@h`@?ovH@h`BbOvH@hc}bG?~@hc}bG?~@hc}b@C~_?xBb@Jw@h`@?`	zpUlMWOKdF4R0F2DTN0W2N2P$93@046l050X02GV820VV02501V4J880107V0cA1!V841!10F#VV8F0	fjmPc@NJdXDPFPSHILkk[\s]FYK@ASSAD@@@@	N-[(4-chlorophenyl)carbamoyl]-2,6-difluorobenzamide	N-[(4-chlorophenyl)carbamoyl]-2,6-difluorobenzamide	0.0	O=C(NC(=O)c1c(F)cccc1F)Nc1ccc(Cl)cc1
+!B@OxBmpJH@Ox@?ovH@h`Bb@JH@O{}b@	zoUlLWNFd04F0F0B0N0W082&3!4Jl!8#FV960V#4!V4F#802F0c%V01#F$8W0F0	dcmD@DHERYYUZz]Z``R@@	2,3-dihydrophthalazine-1,4-dione	2,3-dihydrophthalazine-1,4-dione	0.0	O=c1[nH][nH]c(=O)c2ccccc12
+!B?[]??`Jw?[\@?`Jw@k]eGpC~GvTXTqh_XFT	yoPlLWOG8F4F0F24FN0G082m%29!2n208V03FV868WV#V5X4J18#@0Fc#2ZV68#F!J08Y0F0	dg}BAHtDVxeNrJZIJZH}Nft@Ptd@@	5-nitroisoindole-1,3-dione	5-nitroisoindole-1,3-dione	1.0	O=C1NC(=O)c2cc([N+](=O)[O-])ccc21
+!B?[]??`Jw?[\@?`Jw@k_}mpC~_?xBmpJw@Ox@?`	zoUlLWNGd04F0F2BFN0W082m%3904Jn!8V03GV968W#4V4X4F1!80@FFc#2ZV69084FF0J08Y0F0	foApPBHZlABgPeGIMrmsoIFlt@PuI@@@	6-nitro-2,3-dihydrophthalazine-1,4-dione	6-nitro-2,3-dihydrophthalazine-1,4-dione	1.0	O=c1[nH][nH]c(=O)c2cc([N+](=O)[O-])ccc12
+!B@OxBb@Jw?[\@?g?~@k\Bm?vH?[\@?`	qFPF61818!F0F240N010N0V%2#FkV10V$968V!2*802G0c1$V48#F$130V0	dcMLAHTDfISdfyed]ZBA`@@	2-nitrobenzamide	2-nitrobenzamide	1.0	NC(=O)c1ccccc1[N+](=O)[O-]
+!B?g?~@G?~@O{}b@Jw@h`BbG?~@Ox@?`JH@Ox	jpQlHVNK!4J!28HF0W082V$108!2G#X82GV!9VV$524J0F&V8#V04c!2020G0Wl0s0	dg\d`LF[a@BLddJbbQvfmPLA@@@	2-(4-aminophenyl)sulfonylguanidine	2-(4-aminophenyl)sulfonylguanidine	0.0	N=C(N)NS(=O)(=O)c1ccc(N)cc1
+!B?[]??`Jw?[\@?g?~@k\Bm?vw@Ox@?`Jw@h`@?`JH@k\@?`C~@k\	yJul619G8k4F0F24FN010N2m$10920HmV50V03FV968WV020V52KL1!80DlFc1!24V48V!4!J!Y0F0	fbuPPBHV@aahRclbfbbRQfTRPeIrtDDSP@@@@	4-methoxy-3-nitro-N-phenylbenzamide	4-methoxy-3-nitro-N-phenylbenzamide	1.0	COc1ccc(C(=O)Nc2ccccc2)cc1[N+](=O)[O-]
+!B_?{}bOvw@k]??ovw?[\ZGw?~XFUgTvT_?g|	zwQn6YOK8F4N0J2gRN0WVN2m!81128047mV50V030k068WV020V5X4JW#1BWFc90V@ZV6804$410Y0F0	dg}BAHLDVxeNR[e[gz]Mh@aiH@@	5-nitro-1H-indole-2,3-dione	5-nitro-1H-indole-2,3-dione	1.0	O=C1Nc2ccc([N+](=O)[O-])cc2C1=O
+!Bim~?SmCMm?w}bLwOSk|XKG?~@hc}bOvH_?xBb@JH?[_}bOvH_?xBbOvw	zpzpIWOKWF4R!2D@R0W082sV0F090Z042G018280FZ849W!W0V9V4J0F01$V10234041!2F2$Y0Gk	ffcIbBLRU[`j`BLRKldTTTtjTRRRqFF\dmSK@DDDT@@@	2-[[2-(5-nitrothiophen-2-yl)quinazolin-4-yl]amino]ethanol	2-[[2-(5-nitrothiophen-2-yl)quinazolin-4-yl]amino]ethanol	1.0	O=[N+]([O-])c1ccc(-c2nc(NCCO)c3ccccc3n2)s1
+!BYuOOtdz?nrnH?]KOf]?}mw?~@k_}m?vw@k]??`Jw?[\@?`Jw_?xBb@Jw	zpzpM_OKWk4R4F2@@R0_082sV0F0904042l0582!FZ849WV0W0V9V4J0F01!V0V10234041!2F2#2Y0Fk	ff}YPBHRUYw`HHdlIQrS\krlzsLxZsTu@AULr@@@	N-[4-acetamido-6-(5-nitrofuran-2-yl)-1,3,5-triazin-2-yl]acetamide	N-[4-acetamido-6-(5-nitrofuran-2-yl)-1,3,5-triazin-2-yl]acetamide	1.0	CC(=O)Nc1nc(NC(C)=O)nc(-c2ccc([N+](=O)[O-])o2)n1
+!B?`C~_pC~_?xBm?vw?X`@?g?~_?xBb@Jw?X`@?`C~_?xBmpC~@k\Bb@	zovpHVNG8V4F4028FF0W082V$109044G#V82GV!9V#405X4F!1$FV8#V04h!20F0F!3#	fjmaRBDpQcIPABYKvRREQIJKIHjJmzJuA@@DS@@@	(4-nitrophenyl)methyl 4-methylbenzenesulfonate	(4-nitrophenyl)methyl 4-methylbenzenesulfonate	1.0	Cc1ccc(S(=O)(=O)OCc2ccc([N+](=O)[O-])cc2)cc1
+!B@k\@?ovw_?xBm?vw@k_}mpC~_?xBmpJw?Xc}mpC~	jpQlHVNK!4J!2B2N010N2V!F0912!FGV10X80FV968V!2909%V802G0V3$VJ8!1F04#3#	f`a`bbEV\BHQDDbJAC@aTnyInufVS^ij``X@@@	1-nitro-2-(1,2,2-trichloroethenyldisulfanyl)benzene	1-nitro-2-(1,2,2-trichloroethenyldisulfanyl)benzene	1.0	O=[N+]([O-])c1ccccc1SSC(Cl)=C(Cl)Cl
+!B@k\@?ovw@k]??ovw@k_}mpC~_?xBmpJw?Xc}mpC~	jpQlHVNK!4J!2B2N010N2V!F0912!FGV10X80FV968V!2909%V802G0V3$VJ8!1F04#38!	f`a`bbEV\BHQDDBJRC@aTnyIn]fVS^ij``X@@@	1-[(2,2-dichloro-1-fluoroethenyl)disulfanyl]-2-nitrobenzene	1-[(2,2-dichloro-1-fluoroethenyl)disulfanyl]-2-nitrobenzene	1.0	O=[N+]([O-])c1ccccc1SSC(F)=C(Cl)Cl
+!BmpJDUL?MilCMtF\lL[|Bb@C~?X`BbOvH@Oy??`JH@hc}m?vH@Ox	zxvr2aN5024R!6BeN0W0N2V!F080404HFV10V8!k869VV0X808!JFF0812G0V102!VJB!2F%301V	fbuqRALJ\sdhi@DXggNeOYHheLYeEDhbTCfiVi``X`@@	5-nitro-N-(2-nitrophenyl)thiophene-3-carboxamide	5-nitro-N-(2-nitrophenyl)thiophene-3-carboxamide	1.0	O=[N+]([O-])c1cc(C(O)=Nc2ccccc2[N+](=O)[O-])cs1
+!Bb@JH__x@FBqgKFU``CDZX@JHKAa}bGvHPAdBbG?~_Xa}bG?~@ha}bGvH@h`	zJPl218J8!F0F04FN0W082X!F!2#6H058!1F0849VV$804F)V102!86#2F%3#	fn{``BH@QBT]dTtTRRTtJTrSAJlYtTuZuHP@@@@@@@@	2-nitrobenzo[j]aceanthrylene	2-nitrobenzo[j]aceanthrylene	1.0	O=[N+]([O-])C1=Cc2c3ccc4ccccc4c3cc3cccc1c23
+!Bnrl_Fj[_nrm`YZ[_im}`YZ[_nrm`YZ[_im}SYvAeXFTlY?y?	zpPlHWOK8F4J0F20HN0W082V!F#9!HG010X02GV849VV0280C24J0F08WFFFV1021V048$20G0WY0k0	fluX`BHJtxJPHaJNR[e]eYW`k^beh@IjZhT@@	2-(4-nitrophenyl)-7H-purin-6-amine	2-(4-nitrophenyl)-7H-purin-6-amine	1.0	Nc1[nH]c(-c2ccc([N+](=O)[O-])cc2)nc2ncnc1-2
+!BbOrH?_x@FBqgKFU``CDZXOrHKAc}bD@Y?Xc|b@	zJPl218J8!F0F040N0W082X!F!2#6F058!1F0849VV$804F)V102!84#2F%3#	foQ``BH@QBT\dwLjmlDhugMRD@@@@@	1-nitroacenaphthylene	1-nitroacenaphthylene	1.0	O=[N+]([O-])C1=Cc2cccc3cccc1c23
+!BmpK~@K]}L[?Otm~Y_K\knwvws\}??g?~KF]}bGvw_?xBbG?~_[]}bGvH@h`	zJPl218J8!F0F04FN0W082X!F!2#6H058!1F0849VV$804F)V102!86#2F%3#	fn{``BH@QBT]dTtTRRTtLRbKAJl[r\uZuHP@@@@@@@@	18-nitropentacyclo[11.6.1.02,11.03,8.017,20]icosa-1(20),2(11),3,5,7,9,12,14,16,18-decaene	18-nitropentacyclo[11.6.1.02,11.03,8.017,20]icosa-1(20),2(11),3,5,7,9,12,14,16,18-decaene	1.0	O=[N+]([O-])C1=Cc2c3c1cccc3cc1ccc3ccccc3c21
+!Bb@JH?_x@FBqgKFU``CDZX@JHKAc}bOvHPAdBb@JH?Xc}b@JH@hc}bOvH@h`	zJPl218J8!F0F04FN0W082X!F!21!6H058!1F0849VV$804F)V102!86#2F%3#	fn{``BH@QBT\dwLjmnjjpRkF]EMVmRD@@@@@@@@@	15-nitropentacyclo[11.6.1.02,11.04,9.016,20]icosa-1(20),2,4,6,8,10,12,14,16,18-decaene	15-nitropentacyclo[11.6.1.02,11.04,9.016,20]icosa-1(20),2,4,6,8,10,12,14,16,18-decaene	1.0	O=[N+]([O-])C1=Cc2cc3cc4ccccc4cc3c3cccc1c23
+!BJ{lZG}~fnroMtK\BosDBbOvH@OxBb@JH@Ox	zpQl2WO48F4R0F08@N0W082V!F080404HF05%V849VV0X!8!J0F!1#V102#J#2F2#VY0FV	dgDAHK`RISlbfbTLRS\]mST@B@@	5-nitro-4-phenyl-1H-imidazole	5-nitro-4-phenyl-1H-imidazole	1.0	O=[N+]([O-])c1[nH]cnc1-c1ccccc1
+!B@k\@?ovw_?xBmpC~?[]??`Jw?[\Bm?vw@Oy??`Jw@k_}bOvw@Ox	zpQlHVNK!4J!2B2N010N2V!F0912!FGV10X80FV968V!2909%V802G0V3$VJ8!1F04#3#	fbe`cbGQRBHQDDbFQ@hbPPhH]J^R[n{VYYCffij``X@@@	1-nitro-2-(1,2,3,4,4-pentachlorobuta-1,3-dienyldisulfanyl)benzene	1-nitro-2-(1,2,3,4,4-pentachlorobuta-1,3-dienyldisulfanyl)benzene	1.0	O=[N+]([O-])c1ccccc1SSC(Cl)=C(Cl)C(Cl)=C(Cl)Cl
+!Bf\BDUA|Zf\B{Jq|ZGqj{Jq|Znrl_Fig@nrl_Foy?Gqj{Jq}eTv\	zpQlHWOK8F4R0F28TN0W082V!F080C04HG010X02GV849VV0X80CX0J0F08WFFFV1#V0J9#F20G0VY0F0	fbmX`BHJMzNPHaJNR[e]VVUxHLTyZ@BjViR`@@	N-[(4-nitrophenyl)methyl]-7H-purin-6-amine	N-[(4-nitrophenyl)methyl]-7H-purin-6-amine	0.0	O=[N+]([O-])c1ccc(CNc2nc[nH]c3ncnc2-3)cc1
+!B?`C~_pC~_?xBm?vw?X`@?g?~_?xBb@Jw?X`@?`C~_?xBmp	zotpFVNG8V4F4028FF0W082V$109044G$82GV!9V#405X4F!1%V8&h!2#F!1#	fdyAb@HHp@HrRPjIIQYIJmzJuA@@D@@@	benzyl 4-methylbenzenesulfonate	benzyl 4-methylbenzenesulfonate	0.0	Cc1ccc(S(=O)(=O)OCc2ccccc2)cc1
+!B@k\@?ovw_?xBmpC~?[]??`Jw?[\Bm?vw@Oy??`Jw@k_}bOvw@Ox	zpQlHVNK!4J!2B2N010N2V!F0912!FGV10X80FV968V!2909%V802G0V3$VJ8!1F04#3#	fbe`cbGQRBHQDDbFQ@hbPPhH]J^R[n{VYYCffij``X@PX`	1-nitro-2-[[(1E)-1,2,3,4,4-pentachlorobuta-1,3-dienyl]disulfanyl]benzene	1-nitro-2-[[(1E)-1,2,3,4,4-pentachlorobuta-1,3-dienyl]disulfanyl]benzene	1.0	O=[N+]([O-])c1ccccc1SS/C(Cl)=C(\Cl)C(Cl)=C(Cl)Cl
+!B?g?~@G?~@O{}b@JH@k]??`C~?X`@?`Jw	zoQlHWNG804F!2B0N010N2V$93$GV1!80F0829V(4F!V!2!V(c!2&W0F0	dknD`La@BLddJbTVtujBH@@@	N-ethyl-2-methylbenzenesulfonamide	N-ethyl-2-methylbenzenesulfonamide	1.0	CCNS(=O)(=O)c1ccccc1C
+!B_Xa??`JH_[]}bGvH_?xBbOy??`A??gvH_[\BbG?~_?y}bGvH_[]??`	iJPl208G!4F!240N010N2X$112!2FV50V80FV809VV0210104J0FV012W0V2$84c!2$10W0FF	fj}Pa@BNdhDQpHrJJIKRVJIJY``yRVBBE`@@@@@@	N-(2-chlorophenyl)quinoline-8-sulfonamide	N-(2-chlorophenyl)quinoline-8-sulfonamide	0.0	O=S(=O)(Nc1ccccc1Cl)c1cccc2cccnc12
+!BXAhXTqi`FBp@?ovHXFTBb@JHim?}bFAe	ywspJZNF8V4F41040N05082#F!20V0HG0188!Fk860VV02!9V4J!1012!g!2!V04#F$8$	dk\D@@QIeeUrj]Z`Pb`HY@	(3Z)-3-propylidene-2-benzofuran-1-one	(3Z)-3-propylidene-2-benzofuran-1-one	1.0	CC/C=C1\OC(=O)c2ccccc21
+!B_[]??`Jw_Xa}mwvw@ha??`Jw_[]??oy??`A??gvH_[\BbG?~_?y}bGvH_[]??`	iJPl208G!4F!24FN010N2m$10@!2HV50V82FV829WV020V505J0F#@W0VA!2Z84c!2#J!Y0FF	fakpQBBJcpQk@bMAAIEvQQQJJiRFJIJYdlmkvBAbe`@@@@@@	N-(4-chloro-3-nitrophenyl)quinoline-8-sulfonamide	N-(4-chloro-3-nitrophenyl)quinoline-8-sulfonamide	0.0	O=[N+]([O-])c1cc(NS(=O)(=O)c2cccc3cccnc23)ccc1Cl
+!B@h`@?ovH_?xBbOvH?[_}b@JH@k_}mw?~@k\@?ovw@k\Bm?vw	youpLZNG8V4F41240N050N2V$830V0FGV10c!FV968V!2101V4F!1802G0g%V4C#F04#3#	fle`PBH@PhtIQvQSQQIESQIBeEKPDEL@@@@@	(2-nitrophenyl)methyl benzoate	(2-nitrophenyl)methyl benzoate	0.0	O=C(OCc1ccccc1[N+](=O)[O-])c1ccccc1
+!BtLtknsF?@k]??hPk?[_}mw?~_?x	zoQlLWNG804F0F2BFN0W0N2H$129044nV10V80FV860W!20V5X5F1$2!c1!2VV4$FF0J01W0k0	dmMH`HU`BDiYW\HYjA@h@@	6-amino-1,2-benzothiazol-3-one	6-amino-1,2-benzothiazol-3-one	0.0	Nc1ccc2c(=O)[nH]sc2c1
+!BXAhXTqi`?g|XK@C~?Xa`YPJH@hc}b@	zqPlTlOk8F5k0k951N0l08@$F030806l208#HV86FkV!F01V4J080V02!d#V0V$8F$910V0	dcmD@DHARYfuzY]ZhDB@@	2-aminoisoindole-1,3-dione	2-aminoisoindole-1,3-dione	0.0	NN1C(=O)c2ccccc2C1=O
+!B@OxBmpJH?[\@?`C~?X`BmpJH@h`Bb@C~?[\@?ovH@k\Bm?vw	zwQn6YOK8F4N0J2B880WV82#F193!4MF058V#k16$X409V4JV!814V0c11V80V4104%18V0F0	flu``@B@]dTTTRRTRrKIZ}EKTaP@`D@@@	2-anilinonaphthalene-1,4-dione	2-anilinonaphthalene-1,4-dione	1.0	O=C1C=C(Nc2ccccc2)C(=O)c2ccccc21
+!B@OxBb@Jw?[\@?`Jw_?xBmpC~?[]??ovH?[\	youpLZNG8V4F41240N050N2V$830V0FGV10c!FV968V!2101%1802G0Z%V4B#F04#3#	dg^BAHAENISlbfbbRJ`rtAAS@@@	(2-nitrophenyl)methyl acetate	(2-nitrophenyl)methyl acetate	0.0	CC(=O)OCc1ccccc1[N+](=O)[O-]
+!B@hc}b@C~_?xBb@JH?X`@?g?~@hc}m?vH@k]??g?~@hc}m?vH?Xc}bG?~@k\BbOvw@k]??ovw?[]??`	yJul619G8F4F0F24FN010N2m$133202m050V01FV820WV0210105L$86W0c30224868&44FX0G0	egh\DD@BNFkJ`HaRHrJJIKISQSQISGQILB^IE]GWPPIPPD@q@@@@@@	4-[(2,5-dichlorophenyl)diazenyl]-3-hydroxy-N-phenylnaphthalene-2-carboxamide	4-[(2,5-dichlorophenyl)diazenyl]-3-hydroxy-N-phenylnaphthalene-2-carboxamide	1.0	O=C(Nc1ccccc1)c1cc2ccccc2c(N=Nc2cc(Cl)ccc2Cl)c1O
+!BaBnYw~@ZFnBXdxC~_TbXk@IH@h`@@WvH`CE}RJrX@d`BbGvH_T`BR@IH_T`	zJPl218J8!F0F04FN0W082X!F!21!6H058!1F0849VV$804F)V102!86#2F%3#	fn{``BH@QBT\dwLjlkzjpRcV}EMVmRD@@@@@@@@@	14-nitropentacyclo[11.6.1.02,11.04,9.016,20]icosa-1(19),2,4,6,8,10,12,14,16(20),17-decaene	14-nitropentacyclo[11.6.1.02,11.04,9.016,20]icosa-1(19),2,4,6,8,10,12,14,16(20),17-decaene	1.0	O=[N+]([O-])C1=Cc2cccc3c2c1cc1cc2ccccc2cc13
+!B?g?~@@C~_?xBbGvH_[]}b@C~@ha??g?~@h`BbGvH_Xa}mpC~_?xBb@	yJPl208G804F!24FF01082X$109!2F040V82FV!9VV$504J0F$V0V8#V84c!2#F!W0FF	fj}Pb@LJ``@QddaTTTRRTvIhnRGJu@@@@A@@@@	N-(4-methylphenyl)quinoline-8-sulfonamide	N-(4-methylphenyl)quinoline-8-sulfonamide	0.0	Cc1ccc(NS(=O)(=O)c2cccc3cccnc23)cc1
+!B?g?~@G?~@O{}b@Jw@h`@?`C~@h`@?`JH?X`@?`	yJPl619G0F4F0F20FF01082V$108!2k040V82F#9VV$424J%4VFV8#V04c!2#F!W0F0	do}L`LvDl@cIIBidleIUZ`@i`@@	N-[4-(methylsulfamoyl)phenyl]acetamide	N-[4-(methylsulfamoyl)phenyl]acetamide	0.0	CNS(=O)(=O)c1ccc(NC(C)=O)cc1
+!B?`C~_pC~_?xBm?vw?Xc}mpC~_?y??`Jw@k_}b@C~_?{}mpJw_?x	yJPl619G0F4F0F20FF01082V$108!2k040V82FV!9VV$524J0F#4VFV8#V04c!2020F!W0FF	fbuqb@LBCABPAFRREQQII[YSSk^Vh@@@i`@@	N-[4-(pyridin-2-ylsulfamoyl)phenyl]acetamide	N-[4-(pyridin-2-ylsulfamoyl)phenyl]acetamide	0.0	CC(=O)Nc1ccc(S(=O)(=O)Nc2ccccn2)cc1
+!BmpJH?PJH?[\Bmw?~?[_}mqh__?y`YV]SYQ?~_p	zwQn6YOK8F4N0J2gRN0WVN2m!81128047mV50V830k068WV020V5X4JW#1BWFc90V@ZV6c04%10Y0G0	foAaR@KPQcS`AFRRVIJZKBTZrt@Ptd@@	2,3-dioxo-1H-indole-5-sulfonic acid	2,3-dioxo-1H-indole-5-sulfonic acid	1.0	O=C1Nc2ccc(S(=O)(=O)O)cc2C1=O
+!B_Xa??`JH_[]}bGvH_?xBb@JH?g?~@G?~_Xa}mpJH_?y??gvH_Xa}mw?~	iJPl208G!4F!24FN010N2m$11@!2HV50V82FV809VV0210505J1FV012W0V@#V84c!6#F10W0FF	ffcPc@B^UhDQpHeDYEEDdeHxhdifBbWMXHHe`@@@@@@	N-(2,4-dichlorophenyl)quinoline-8-sulfonamide	N-(2,4-dichlorophenyl)quinoline-8-sulfonamide	0.0	O=S(=O)(Nc1ccc(Cl)cc1Cl)c1cccc2cccnc12
+!B?g?~@@C~_?xBbGvH_[\@?gvH@ha??g?~@h`BbGvH_Xa}mwvH@Oy??`	yJPl208G804F!240F01082m$1$2F040V81FV!9WV#V104J0F$V0V#2084c!2#4!W0FF	fj}Pb@LJ``@QddaTTTRRTtqhnRDju@@@@D@@@@	N-(3-methylphenyl)quinoline-8-sulfonamide	N-(3-methylphenyl)quinoline-8-sulfonamide	0.0	Cc1cccc(NS(=O)(=O)c2cccc3cccnc23)c1
+!BE|qhsNh`HNWeH@OpIg}||Gsp~vl`yPOp~APf_rCeHNTf_p	zxUnMYtJdN4R0F0@@N0W282cVFF080404Hl018280Fo841VV0Y809V4JFF0911H0c1%4$F%W0FV	fdeQB@HDT@HrQJIIJHsIXiHpXtsTl`AP@@	N-(2,1-benzothiazol-3-yl)benzamide	N-(2,1-benzothiazol-3-yl)benzamide	1.0	O=C(Nc1snc2ccccc12)c1ccccc1
+!B?X`BbG?~@O{}mpJw@ha??`C~@OxBb@	yJPl619G0F4F0F2!8#82V$1$2k050V#V8#V02!1!J0F#4V0V1%4+Y0G0	dcMD@DhARYVUuujP`@HJ@	(2Z)-2-hydroxyimino-N-phenylacetamide	(2Z)-2-hydroxyimino-N-phenylacetamide	0.0	O=C(/C=N/O)Nc1ccccc1
+!BNyK~rCnma|iQU~OsKXPWj]_~_tzmNzuDkSnmQM_~u?{W?m_~kSnmQ@	zJPl218J8!F0F04FN0W082X!F!21!6H058!1F0849VV$804F)V102!86#2F%3#	fjs``BH@QBT\dwLjljoLDhuoQrdkTa@@@@@@@@	2-nitropentacyclo[12.3.1.04,17.07,16.010,15]octadecane	2-nitropentacyclo[12.3.1.04,17.07,16.010,15]octadecane	1.0	O=[N+]([O-])C1=Cc2ccc3ccc4cccc5cc1c2c3c45
+!B?g?~@@C~_?xBbGvH_[\BbG?~_?y}bGvH_[]??`	jJPl!8G!4F!240F0W082X$1$4F$80F#9V(4F0F&V%80c!2&Y0GF	foAQb@LB`b`@cIIBihdieVLyZ`@@@@@	N-hydroxyquinoline-8-sulfonamide	N-hydroxyquinoline-8-sulfonamide	0.0	O=S(=O)(NO)c1cccc2cccnc12
+!B?g?~@G?~@O{}b@Jw@ha??`C~@OxBb@	zotpFVNG0V4F40280F01082V$1%G$80F#9V(4F)V(c!2&1#	dcLL`HS@BLddJbRrzmPP@@@	ethyl benzenesulfonate	ethyl benzenesulfonate	1.0	CCOS(=O)(=O)c1ccccc1
+!B?g?~@@C~_?xBbGvH_[\@?gvH@ha??g?~@h`BmpJH_Xa}bGvw_Xa??`	yJPl208G804F!240N010N2X$13#2FV50V80FV809VV$104J0FV012W0V%84c!2$10W0FF	fj}Pb@LJ``@QddaTTTRbRfId~sDju@@A@@@@@@	N-(2-methylphenyl)quinoline-8-sulfonamide	N-(2-methylphenyl)quinoline-8-sulfonamide	0.0	Cc1ccccc1NS(=O)(=O)c1cccc2cccnc12
+!B?g?~@G?~@Oy}mpJH@k]??`C~@Oy}mwvH@k]??g?~@Oy}bG?~	zotpFVNG8V4F4028FF0W082V$109044G$82GV!9V#405X4F!1%V8&h!20F0F!1#	fleAb@HHp@HrRPjIIQYIEUoQVhH@@b@@@	(4-methylphenyl)methyl 4-methylbenzenesulfonate	(4-methylphenyl)methyl 4-methylbenzenesulfonate	0.0	Cc1ccc(COS(=O)(=O)c2ccc(C)cc2)cc1
+!B@k_}mpC~_?{}m?vH_?xBmw?~?[_}b@Jw_?{}mw?~@k_}m?vH?[]??`Jw?[\Bmw?~	yJPl619G8F4F0F240N010N0m!F013#2kV50V$828WV#V8!4!V016W0V10224848&410Y0F0	fikI`BDJlTAnjdwYEEhheCBhheCiKVZmPDQLADS@@@	(3-acetamido-2-methylphenyl)-(3-acetamido-2-methylphenyl)imino-oxidoazanium	(3-acetamido-2-methylphenyl)-(3-acetamido-2-methylphenyl)imino-oxidoazanium	0.0	CC(=O)Nc1cccc(N=[N+]([O-])c2cccc(NC(C)=O)c2C)c1C
+!B@OyNotz@wygOtovH?[^YpG?~_?{}mp	zoQlLWNG804F0F2B0N0W0N2V$12!46lV1!80FV869VV02!1V4J%2!c1$V0c!2F%W0F0	dcnL`LaA@HrRPjIKTrzmPHD@@	Saccharin	nan	nan	C1=CC=C2C(=C1)C(=O)NS2(=O)=O
+<hitlist data>
+<hitlistName="<selection>">
+<hitlistData="@@@@@@@@@@@A">
+</hitlist data>
+<datawarrior properties>
+<axisColumn_2D View_0="Structure">
+<axisColumn_2D View_1="Structure">
+<axisColumn_3D View_0="Structure">
+<axisColumn_3D View_1="Structure">
+<axisColumn_3D View_2="Structure">
+<chartType_2D View="scatter">
+<chartType_3D View="scatter">
+<columnFilter_Table="">
+<columnWidth_Table_LigandID.1="80">
+<columnWidth_Table_Molecule Name="80">
+<columnWidth_Table_Structure="100">
+<columnWidth_Table_canonical_smiles="80">
+<columnWidth_Table_class="80">
+<detailView="height[Data]=0.5;height[Structure]=0.5">
+<faceColor3D_3D View="-1250054">
+<fastRendering_2D View="false">
+<fastRendering_3D View="false">
+<filter0="#browser#	#disabled#	Structure	daD@@DiUrijihI@@ !B@ha??ovH?Xa??g?~?[\">
+<filter1="#structure#	Structure	FragFp	50	dcnL`LaA@HrRPjIKTrzmPHD@@">
+<filter2="#string#	Molecule Name">
+<filter3="#string#	LigandID.1">
+<filter4="#string#	canonical_smiles">
+<filterAnimation0="state=stopped">
+<headerLines_Table="2">
+<mainSplitting="0.72703">
+<mainView="Table">
+<mainViewCount="4">
+<mainViewDockInfo0="root">
+<mainViewDockInfo1="Table	bottom	0.499">
+<mainViewDockInfo2="Table	right	0.5">
+<mainViewDockInfo3="2D View	right	0.5">
+<mainViewName0="Table">
+<mainViewName1="2D View">
+<mainViewName2="Structures">
+<mainViewName3="3D View">
+<mainViewType0="tableView">
+<mainViewType1="2Dview">
+<mainViewType2="structureView">
+<mainViewType3="3Dview">
+<rightSplitting="0.65677">
+<rotationMatrix_3D View00="1">
+<rotationMatrix_3D View01="0">
+<rotationMatrix_3D View02="0">
+<rotationMatrix_3D View10="0">
+<rotationMatrix_3D View11="1">
+<rotationMatrix_3D View12="0">
+<rotationMatrix_3D View20="0">
+<rotationMatrix_3D View21="0">
+<rotationMatrix_3D View22="1">
+<rowHeight_Table="80">
+<scaleStyle_2D View="frame">
+<scaleStyle_3D View="arrows">
+<scatterplotMargin_2D View="0.025">
+<scatterplotMargin_3D View="0.025">
+<showNaNValues_2D View="true">
+<showNaNValues_3D View="true">
+<structureGridColumn_Structures="Structure">
+<structureGridColumns_Structures="6">
+</datawarrior properties>

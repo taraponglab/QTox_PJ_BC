@@ -1,0 +1,302 @@
+LigandID,class,canonical_smiles
+"trans,trans-2,4-Hexadienal",1.0,C/C=C/C=C/C=O
+6-Methylquinoline,1.0,Cc1ccc2ncccc2c1
+Pyruvaldehyde,1.0,CC(=O)C=O
+Furfuryl acetate,1.0,CC(=O)OCc1ccco1
+1-Penten-3-one,1.0,C=CC(=O)CC
+2-Hexenal,1.0,CCC/C=C/C=O
+trans-cinnamaldehyde,1.0,O=C/C=C/c1ccccc1
+2-Pentenal,1.0,CC/C=C/C=O
+2-Furyl methyl ketone,1.0,CC(=O)c1ccco1
+Ethyl 3-phenylglycidate,1.0,CCOC(=O)C1OC1c1ccccc1
+4-Phenyl-3-buten-2-one,1.0,CC(=O)/C=C/c1ccccc1
+trans-Anethole,1.0,C/C=C/c1ccc(OC)cc1
+Diacetyl,1.0,CC(=O)C(C)=O
+Menthone,1.0,CC(C)[C@@H]1CC[C@@H](C)CC1=O
+Resorcinol,1.0,Oc1cccc(O)c1
+2-Phenylphenol,1.0,Oc1ccccc1-c1ccccc1
+"2,6-Dimethylpyrazine",1.0,Cc1cncc(C)n1
+Thiazole,1.0,c1cscn1
+Methyl 2-pyrrolyl ketone,1.0,CC(=O)c1ccc[nH]1
+Cadinene,1.0,CC(C)[C@@H]1CC[C@H](C)[C@@H]2C=C[C@H](C)C[C@H]21
+"4-Hydroxy-2,5-dimethyl-3(2H)-furanone (DMHF)",1.0,CC1=C(O)C(=O)C(C)O1
+4-Hydroxy-2-ethyl-5-methyl-3(2H)-furanone (HEMF),1.0,CCC1OC(C)=C(O)C1=O
+Maltol,1.0,Cc1occc(=O)c1O
+2-Methyl-2-pentenal,0.0,CC/C=C(\C)C=O
+alpha-Hexylcinnamaldehyde,0.0,CCCCCC/C(C=O)=C\c1ccccc1
+para-Methoxy-alpha-methyl cinnamaldehyde,0.0,COc1ccc(/C=C(\C)C=O)cc1
+"para-Mentha-1,8-dien-7-al",0.0,C=C(C)C1CC=C(C=O)CC1
+"2,6,6-Trimethylcyclohexa-1,3-dienyl methanal",0.0,CC1=C(C=O)C(C)(C)CC=C1
+Citral,0.0,CC(C)=CCC/C(C)=C/C=O
+alpha-Methylcinnamaldehyde,0.0,C/C(C=O)=C\c1ccccc1
+alpha-Amylcinnamaldehyde,0.0,CCCCC/C(C=O)=C/c1ccccc1
+ortho-Methoxycinnamaldehyde,0.0,COc1ccccc1/C=C/C=O
+5-Methylfurfural,0.0,Cc1ccc(C=O)o1
+"2,4-Nonadienal",0.0,CCCC/C=C/C=C/C=O
+Nona-2-trans-6-cis-dienal,0.0,CC/C=C\CC/C=C/C=O
+"2-trans,4-trans-Decadienal",0.0,CCCCC/C=C/C=C/C=O
+2-Heptenal,0.0,CCCC/C=C/C=O
+2-Nonenal,0.0,CCCCCC/C=C/C=O
+2-Octenal,0.0,CCCCC/C=C/C=O
+2-Methylfuran,0.0,Cc1ccco1
+"2,5-Dimethylfuran",0.0,Cc1ccc(C)o1
+3-(2-Furyl)acrolein,0.0,O=C/C=C/c1ccco1
+Benzyl isothiocyanate,0.0,S=C=NCc1ccccc1
+Ethyl methylphenylglycidate,0.0,CCOC(=O)C1OC1(C)c1ccccc1
+Dihydroxyacetone,0.0,O=C(CO)CO
+Isoamyl formate,0.0,CC(C)CCOC=O
+"3,4-Hexanedione",0.0,CCC(=O)C(=O)CC
+Methylthio 2-(acetyloxy)propionate,0.0,CSC(=O)C(C)OC(C)=O
+Methylthio 2-(propionyloxy)propionate,0.0,CCC(=O)OC(C)C(=O)SC
+Allyl mercaptan,0.0,C=CCS
+Benzyl mercaptan,0.0,SCc1ccccc1
+Benzyl formate,0.0,O=COCc1ccccc1
+Phenylacetaldehyde,0.0,O=CCc1ccccc1
+para-Tolylacetaldehyde,0.0,Cc1ccc(CC=O)cc1
+Methyl 2-nonynoate,0.0,CCCCCCC#CC(=O)OC
+Methyl 2-octynoate,0.0,CCCCCC#CC(=O)OC
+Allyl thiohexanoate,0.0,C=CCSC(=O)CCCCC
+"3,6-Diethyl-1,2,4,5-tetrathiane",0.0,CCC1SSC(CC)SS1
+Propionaldehyde,0.0,CCC=O
+3-Methylbutyraldehyde,0.0,CC(C)CC=O
+4-Methyl-2-pentanone,0.0,CC(=O)CC(C)C
+"2,6-Dimethyl-5-heptenal",0.0,CC(C)=CCCC(C)C=O
+Acetoin,0.0,CC(=O)C(C)O
+"2,3-Pentanedione",0.0,CCC(=O)C(C)=O
+"1,2-Ethanedithiol",0.0,SCCS
+Dimethyl disulfide,0.0,CSSC
+2-Methylpyrazine,0.0,Cc1cnccn1
+5-Methylquinoxaline,0.0,Cc1cccc2nccnc12
+Isoamyl benzoate,0.0,CC(C)CCOC(=O)c1ccccc1
+Methyl anisate,0.0,COC(=O)c1ccc(OC)cc1
+Methyl salicylate,0.0,COC(=O)c1ccccc1O
+Glycerol,0.0,OCC(O)CO
+Isobutyl phenylacetate,0.0,CC(C)COC(=O)Cc1ccccc1
+6-Methyl-5-hepten-2-one,0.0,CC(=O)CCC=C(C)C
+4-Methyl-3-penten-2-one,0.0,CC(=O)C=C(C)C
+(E)-7-Methyl-3-octen-2-one,0.0,CC(=O)/C=C/CCC(C)C
+Isoeugenyl benzyl ether,0.0,C/C=C/c1ccc(OCc2ccccc2)c(OC)c1
+Methyl anthranilate,0.0,COC(=O)c1ccccc1N
+Ethyl anthranilate,0.0,CCOC(=O)c1ccccc1N
+Isobutyl anthranilate,0.0,CC(C)COC(=O)c1ccccc1N
+Phenylethyl anthranilate,0.0,Nc1ccccc1C(=O)OCCc1ccccc1
+Methyl N-methylanthranilate,0.0,CNc1ccccc1C(=O)OC
+Methyl N-formylanthranilate,0.0,COC(=O)c1ccccc1NC=O
+"α,α-Dimethylphenethyl formate",0.0,CC(C)(Cc1ccccc1)OC=O
+Allyl hexanoate,0.0,C=CCOC(=O)CCCCC
+Allyl isovalerate,0.0,C=CCOC(=O)CC(C)C
+Allyl cinnamate,0.0,C=CCOC(=O)/C=C/c1ccccc1
+Benzaldehyde,0.0,O=Cc1ccccc1
+Benzyl acetate,0.0,CC(=O)OCc1ccccc1
+Benzyl benzoate,0.0,O=C(OCc1ccccc1)c1ccccc1
+Benzyl alcohol,0.0,OCc1ccccc1
+Isoamyl alcohol,0.0,CC(C)CCO
+Geranyl acetate,0.0,CC(=O)OC/C=C(\C)CCC=C(C)C
+Formic acid,0.0,O=CO
+Acetaldehyde,0.0,CC=O
+Acetic acid,0.0,CC(=O)O
+Propyl alcohol,0.0,CCCO
+Propionic acid,0.0,CCC(=O)O
+Butyl alcohol,0.0,CCCCO
+Butyraldehyde,0.0,CCCC=O
+Butyric acid,0.0,CCCC(=O)O
+Amyl alcohol,0.0,CCCCCO
+Hexanal,0.0,CCCCCC=O
+Hexanoic acid,0.0,CCCCCC(=O)O
+Heptanal,0.0,CCCCCCC=O
+Heptanoic acid,0.0,CCCCCCC(=O)O
+1-Octanol,0.0,CCCCCCCCO
+Octanal,0.0,CCCCCCCC=O
+Octanoic acid,0.0,CCCCCCCC(=O)O
+Nonanal,0.0,CCCCCCCCC=O
+Decanal,0.0,CCCCCCCCCC=O
+Decanoic acid,0.0,CCCCCCCCCC(=O)O
+Undecanal,0.0,CCCCCCCCCCC=O
+Lauryl alcohol,0.0,CCCCCCCCCCCCO
+Lauric acid,0.0,CCCCCCCCCCCC(=O)O
+Myristic acid,0.0,CCCCCCCCCCCCCC(=O)O
+1-Hexadecanol,0.0,CCCCCCCCCCCCCCCCO
+Stearic acid,0.0,CCCCCCCCCCCCCCCCCC(=O)O
+Methyl acetate,0.0,COC(C)=O
+Butyl acetate,0.0,CCCCOC(C)=O
+Acetone,0.0,CC(C)=O
+Butyl stearate,0.0,CCCCCCCCCCCCCCCCC(=O)OCCCC
+Ethyl isovalerate,0.0,CCOC(=O)CC(C)C
+4-Hydroxybutyric acid lactone (gamma-Butyrolactone),0.0,O=C1CCCO1
+gamma-Heptalactone,0.0,CCCC1CCC(=O)O1
+gamma-Nonalactone,0.0,CCCCCC1CCC(=O)O1
+gamma-Undecalactone,0.0,CCCCCCCC1CCC(=O)O1
+omega-Pentadecalactone,0.0,O=C1CCCCCCCCCCCCCCO1
+"1,4-Dodec-6-enolactone",0.0,CCCCC/C=C\CC1CCC(=O)O1
+Isobutyl alcohol,0.0,CC(C)CO
+Isobutyric acid,0.0,CC(C)C(=O)O
+2-Methylbutyraldehyde,0.0,CCC(C)C=O
+2-Methylpentanal,0.0,CCCC(C)C=O
+β-Naphthyl methyl ether,0.0,COc1ccc2ccccc2c1
+β-Naphthyl ethyl ether,0.0,CCOc1ccc2ccccc2c1
+β-Naphthyl isobutyl ether,0.0,CC(C)COc1ccc2ccccc2c1
+Isoeugenol,0.0,C/C=C/c1ccc(O)c(OC)c1
+Isoeugenyl phenylacetate,0.0,C/C=C/c1ccc(OC(=O)Cc2ccccc2)c(OC)c1
+Propenylguaethol,0.0,C/C=C/c1ccc(OCC)c(O)c1
+Erythro- and threo-3-mercapto-2-methylbutanol,0.0,CC(S)C(C)CO
+Indole,0.0,c1ccc2[nH]ccc2c1
+Isoquinoline,0.0,c1ccc2cnccc2c1
+Skatole,0.0,Cc1c[nH]c2ccccc12
+Pyrrole,0.0,c1cc[nH]c1
+3-Ethylpyridine,0.0,CCc1cccnc1
+3-Acetylpyridine,0.0,CC(=O)c1cccnc1
+Camphene,0.0,C=C1C2CCC(C2)C1(C)C
+β-Caryophyllene,0.0,C=C1CCC=C(C)CCC2C1CC2(C)C
+p-Cymene,0.0,Cc1ccc(C(C)C)cc1
+d-Limonene,0.0,C=C(C)[C@H]1CC=C(C)CC1
+Myrcene,0.0,C=CC(=C)CCC=C(C)C
+α-Pinene,0.0,CC1=CCC2CC1C2(C)C
+2-Ethyl-1-hexanol,0.0,CCCCC(CC)CO
+"2,6-Dimethyloctanal",0.0,CCC(C)CCCC(C)C=O
+Isopropyl alcohol,0.0,CC(C)O
+2-Butanone,0.0,CCC(C)=O
+"2,6-Dimethyl-4-heptanone",0.0,CC(C)CC(=O)CC(C)C
+Isopropyl acetate,0.0,CC(=O)OC(C)C
+Isopropyl myristate,0.0,CCCCCCCCCCCCCC(=O)OC(C)C
+Oleic acid,0.0,CCCCCCCC/C=C\CCCCCCCC(=O)O
+Methyl linoleate,0.0,CCCCC/C=C\C/C=C\CCCCCCCC(=O)OC
+Linalool,0.0,C=CC(C)(O)CCC=C(C)C
+Linalyl acetate,0.0,C=CC(C)(CCC=C(C)C)OC(C)=O
+alpha-Terpineol,0.0,CC1=CCC(C(C)(C)O)CC1
+Carvone,0.0,C=C(C)C1CC=C(C)C(=O)C1
+Carveol,0.0,C=C(C)C1CC=C(C)C(O)C1
+Carvyl acetate,0.0,C=C(C)C1CC=C(C)C(OC(C)=O)C1
+alpha-Ionone,0.0,CC(=O)/C=C/C1C(C)=CCCC1(C)C
+b-Ionone,0.0,CC(=O)/C=C/C1=C(C)CCCC1(C)C
+Methyl-alpha-ionone,0.0,CCC(=O)/C=C/[C@H]1C(C)=CCCC1(C)C
+Methyl-delta-ionone,0.0,CCC(=O)/C=C/C1C(C)C=CCC1(C)C
+Methylcyclopentenolone,0.0,CC1CCC(=O)C1=O
+2-Hydroxy-2-cyclohexen-1-one,0.0,O=C1CCCC=C1O
+ Menthol,0.0,CC1CCC(C(C)C)C(O)C1
+(-)-Menthol 1- and 2-propylene glycol carbonate,0.0,CC(CO)OC(=O)O[C@@H]1C[C@H](C)CC[C@H]1C(C)C
+"(±)-Menthone 1,2-glycerol ketal",0.0,CC1CCC(C(C)C)C2(C1)OCC(CO)O2
+Allyl sulfide,0.0,C=CCSCC=C
+Benzenethiol,0.0,Sc1ccccc1
+2-Mercaptopropionic acid,0.0,CC(S)C(=O)O
+Allyl disulfide,0.0,C=CCSSCC=C
+Phenyl disulfide,0.0,c1ccc(SSc2ccccc2)cc1
+Benzyl disulfide,0.0,c1ccc(CSSCc2ccccc2)cc1
+Ethyl acetoacetate,0.0,CCOC(=O)CC(C)=O
+Hydroxycitronellol,0.0,CC(CCO)CCCC(C)(C)O
+Hydroxycitronellal,0.0,CC(CC=O)CCCC(C)(C)O
+Hydroxycitronellal dimethyl acetal,0.0,COC(CC(C)CCCC(C)(C)O)OC
+Diethyl malonate,0.0,CCOC(=O)CC(=O)OCC
+Dimethyl succinate,0.0,COC(=O)CCC(=O)OC
+Fumaric acid,0.0,O=C(O)/C=C/C(=O)O
+l-Malic acid,0.0,O=C(O)C[C@H](O)C(=O)O
+Adipic acid,0.0,O=C(O)CCCCC(=O)O
+Dibutyl sebacate,0.0,CCCCOC(=O)CCCCCCCCC(=O)OCCCC
+Ethylene brassylate,0.0,O=C1CCCCCCCCCCCC(=O)OCCO1
+Aconitic acid,0.0,O=C(O)/C=C(/CC(=O)O)C(=O)O
+3-Phenylpropionaldehyde,0.0,O=CCCc1ccccc1
+Cinnamyl alcohol,0.0,OC/C=C/c1ccccc1
+Cinnamic acid,0.0,O=C(O)/C=C/c1ccccc1
+Ethyl cinnamate,0.0,CCOC(=O)/C=C/c1ccccc1
+Cyclohexyl cinnamate,0.0,O=C(/C=C/c1ccccc1)OC1CCCCC1
+Benzyl cinnamate,0.0,O=C(/C=C/c1ccccc1)OCc1ccccc1
+alpha-Amylcinnamyl alcohol,0.0,CCCCC/C(=C/c1ccccc1)CO
+ortho-Cresol,0.0,Cc1ccccc1O
+meta-Cresol,0.0,Cc1cccc(O)c1
+para-Cresol,0.0,Cc1ccc(O)cc1
+para-Ethylphenol,0.0,CCc1ccc(O)cc1
+"2,5-Xylenol",0.0,Cc1ccc(C)c(O)c1
+"3,4-Xylenol",0.0,Cc1ccc(O)cc1C
+Thymol,0.0,Cc1ccc(C(C)C)c(O)c1
+Guaiacol,0.0,COc1ccccc1O
+"2,6-Dimethoxyphenol",0.0,COc1cccc(OC)c1O
+2-Hydroxyacetophenone,0.0,O=C(CO)c1ccccc1
+Phenyl salicylate,0.0,O=C(Oc1ccccc1)c1ccccc1O
+Pulegone,0.0,CC(C)=C1CC[C@@H](C)CC1=O
+Menthofuran,0.0,Cc1coc2c1CCC(C)C2
+2-Ethylpyrazine,0.0,CCc1cnccn1
+"2,3-Dimethylpyrazine",0.0,Cc1nccnc1C
+"2,5-Dimethylpyrazine",0.0,Cc1cnc(C)cn1
+2-Ethyl-3-methylpyrazine,0.0,CCc1nccnc1C
+"2,3,5-Trimethylpyrazine",0.0,Cc1cnc(C)c(C)n1
+"2-Ethyl-3,5-dimethylpyrazine and 2-Ethyl-3,6-dimethylpyrazine",0.0,CCc1ncc(C)nc1C
+"2,3,5,6-Tetramethylpyrazine",0.0,Cc1nc(C)c(C)nc1C
+"2-Methoxy-(3, 5 or 6)-methylpyrazine",0.0,COCc1cnccn1
+alpha-Methylbenzyl alcohol,0.0,CC(O)c1ccccc1
+Acetophenone,0.0,CC(=O)c1ccccc1
+Methyl beta-naphthyl ketone,0.0,CC(=O)c1ccc2ccccc2c1
+"4-Acetyl-6-tert-butyl-1,1-dimethylindan",0.0,CC(=O)c1cc(C(C)(C)C)cc2c1CCC2(C)C
+4-Phenyl-3-buten-2-ol,0.0,CC(O)/C=C/c1ccccc1
+Propiophenone,0.0,CCC(=O)c1ccccc1
+alpha-Propylphenethyl alcohol,0.0,CCCC(O)Cc1ccccc1
+Benzophenone,0.0,O=C(c1ccccc1)c1ccccc1
+"1-Phenyl-1,2- propanedione",0.0,CC(=O)C(=O)c1ccccc1
+Ethyl benzoylacetate,0.0,CCOC(=O)CC(=O)c1ccccc1
+Benzoic acid,0.0,O=C(O)c1ccccc1
+Methyl benzoate,0.0,COC(=O)c1ccccc1
+Isopropylbenzyl alcohol,0.0,CC(C)c1ccc(CO)cc1
+Cuminaldehyde,0.0,CC(C)c1ccc(C=O)cc1
+Anisyl alcohol,0.0,COc1ccc(CO)cc1
+Veratraldehyde,0.0,COc1ccc(C=O)cc1OC
+para-Methoxybenzaldehyde,0.0,COc1ccc(C=O)cc1
+para-Ethoxybenzaldehyde,0.0,CCOc1ccc(C=O)cc1
+Vanillyl butyl ether,0.0,CCCCOCc1ccc(O)c(OC)c1
+Vanillin,0.0,COc1cc(C=O)ccc1O
+Ethyl vanillin,0.0,CCOc1cc(C=O)ccc1O
+Piperonyl acetate,0.0,CC(=O)OCc1ccc2c(c1)OCO2
+Piperonal,0.0,O=Cc1ccc2c(c1)OCO2
+Salicylaldehyde,0.0,O=Cc1ccccc1O
+Glyceryl monostearate,0.0,CCCCCCCCCCCCCCCCCC(=O)OCC(O)CO
+Propylene glycol,0.0,CC(O)CO
+Lactic acid,0.0,CC(O)C(=O)O
+Ethyl lactate,0.0,CCOC(=O)C(C)O
+Butyl butyryllactate,0.0,CCCCOC(=O)C(C)OC(=O)CCC
+Pyruvic acid,0.0,CC(=O)C(=O)O
+Ethyl pyruvate,0.0,CCOC(=O)C(C)=O
+Pyrazine,0.0,c1cnccn1
+Ethyl vanillin isobutyrate,0.0,CCOc1cc(C=O)ccc1OC(=O)C(C)C
+Phenethyl alcohol,0.0,OCCc1ccccc1
+Phenylacetic acid,0.0,O=C(O)Cc1ccccc1
+Ethyl phenylacetate,0.0,CCOC(=O)Cc1ccccc1
+Isoamyl phenylacetate,0.0,CC(C)CCOC(=O)Cc1ccccc1
+2-Phenoxyethyl isobutyrate,0.0,CC(C)C(=O)OCCOc1ccccc1
+"4,5-Dimethylthiazole",0.0,Cc1ncsc1C
+4-Methylthiazole,0.0,Cc1cscn1
+Cyclohexyl butyrate,0.0,CCCC(=O)OC1CCCCC1
+Cyclohexanone,0.0,O=C1CCCCC1
+2-Hexylidene cyclopentanone,0.0,CCCCC/C=C1\CCCC1=O
+"2,2,6-Trimethylcyclohexanone",0.0,CC1CCCC(C)(C)C1=O
+Isophorone,0.0,CC1=CC(=O)CC(C)(C)C1
+3-Penten-2-one,0.0,C/C=C/C(C)=O
+"6-Methyl-3,5-heptadien-2-one",0.0,CC(=O)/C=C/C=C(C)C
+1-Decen-3-ol,0.0,C=CC(O)CCCCCCC
+Octahydrocoumarin,0.0,O=C1CCC2CCCCC2O1
+Dihydrocoumarin,0.0,O=C1CCc2ccccc2O1
+"Ethyl 2,4,7-decatrienoate",0.0,CCC=CCC=CC=CC(=O)OCC
+2-Methylbutanol,0.0,CCC(C)CO
+dl-Citronellol,0.0,CC(C)=CCCC(C)CCO
+Citronellal,0.0,CC(C)=CCCC(C)CC=O
+Geraniol,0.0,CC(C)=CCC/C(C)=C/CO
+Farnesol,0.0,CC(C)=CCC/C(C)=C/CC/C(C)=C/CO
+Eucalyptol,0.0,CC12CCC(CC1)C(C)(C)O2
+Anisole,0.0,COc1ccccc1
+p-Methylanisole,0.0,COc1ccc(C)cc1
+p-Propylanisole,0.0,CCCc1ccc(OC)cc1
+"1,2-Dimethoxybenzene",0.0,COc1ccccc1OC
+m-Dimethoxybenzene,0.0,COc1cccc(OC)c1
+p-Dimethoxybenzene,0.0,COc1ccc(OC)cc1
+Diphenyl ether,0.0,c1ccc(Oc2ccccc2)cc1
+Dibenzyl ether,0.0,c1ccc(COCc2ccccc2)cc1
+b-Caryophyllene,0.0,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C
+b-Pinene,0.0,C=C1CC[C@H]2C[C@@H]1C2(C)C
+Biphenyl,0.0,c1ccc(-c2ccccc2)cc1
+4-Methylbiphenyl,0.0,Cc1ccc(-c2ccccc2)cc1
+1-Methylnaphthalene,0.0,Cc1cccc2ccccc12
+"p-Mentha-1,4-diene",0.0,CC1=CCC(C(C)C)=CC1
+Ethyl acrylate,0.0,C=CC(=O)OCC
+(E)-2-Butenoic acid,0.0,C/C=C/C(=O)O
+Borneol,0.0,CC1(C)C2CCC1(C)C(O)C2
+d-Camphor,0.0,CC1(C)[C@@H]2CC[C@@]1(C)C(=O)C2
+"3-l-Menthoxypropane-1,2-diol",0.0,CC1CCC(C(C)C)C(OCC(O)CO)C1
+"p-Menthan-3,8-diol",0.0,CC1CCC(C(C)(C)O)C(O)C1
+2-(3-Phenylpropyl)tetrahydrofuran,0.0,c1ccc(CCCC2CCCO2)cc1
+Tetrahydrofurfuryl alcohol,0.0,OCC1CCCO1

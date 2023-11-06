@@ -1,0 +1,30 @@
+<mxfile host="65bd71144e">
+    <diagram id="wVBxh5nS4evpII3SotK5" name="data processing">
+        <mxGraphModel dx="490" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="mRjDb3WoLFLdihYSd5cp" name="molecular fingerprint">
+        <mxGraphModel dx="490" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="ep_gqA8gSxJi8h21EruY-1" value="calculate molecular fingerprint calculation PubChem" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="60" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ep_gqA8gSxJi8h21EruY-2" value="PaDEL-Descriptor (padelpy)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="140" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ep_gqA8gSxJi8h21EruY-3" value="calculate PubChem fingerprint (881 bits)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="220" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ep_gqA8gSxJi8h21EruY-4" value="Principle component analysis (PCA) PC1 (x) PC2 (y)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="300" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
